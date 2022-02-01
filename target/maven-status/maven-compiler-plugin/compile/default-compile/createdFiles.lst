@@ -1,0 +1,5 @@
+les\opus\product\tool\developercount\persistence\WriterPersistence.class
+les\opus\product\tool\developercount\state\OnNewDeveloperState.class
+les\opus\product\tool\developercount\command\CountCommand.class
+les\opus\product\tool\DeveloperCountTool.class
+les\opus\product\tool\Main.class
